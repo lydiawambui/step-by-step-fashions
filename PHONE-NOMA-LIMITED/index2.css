@@ -3,6 +3,7 @@
       
                 
                 background-color: #FFE259;
+              
                 padding-right: 50px;
                 grid-template-columns: auto auto;
                 
@@ -11,7 +12,7 @@
 .grid-item-one{
   display: inline-flex;
 }
-
+<!-- remember to checks the
 
 .grid-item-two {
   padding-right: 135px;
