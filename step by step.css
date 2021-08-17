@@ -40,7 +40,7 @@ background-color: cornflowerblue;} */
      .grid-container{display: grid;
       padding-right: 50px;
         grid-template-columns: auto auto; }
-.one{background-color:hsl(71, 88%, 43%);}
+.one{background-color:rgb(145, 212, 44)}
 .grid-item-two{
 display: inline-flex;
 
